@@ -1,0 +1,15 @@
+body {
+    background-color: #ffcab3;
+    color: #ffe48e;
+}
+
+.error {
+    background-color: gainsboro;
+}
+table{
+    width: 600px;
+    background-color: #2898ff;
+}
+td{
+    width: 300px;
+}
